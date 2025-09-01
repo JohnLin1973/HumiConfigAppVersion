@@ -3,6 +3,6 @@
   "latestBuild": 2,
   "minSupportedVersion": "1.0.0",
   "force": true,
-  "notes": "修復重大錯誤，提升穩定性",
+  "notes": "Enhance reliability",
   "appStoreUrl": "https://apps.apple.com/app/id1234567890"
 }
